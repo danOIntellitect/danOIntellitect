@@ -3,6 +3,7 @@
 **Software Engineer · Spokane .NET User Group Organizer**
 
 I build enterprise-grade full-stack solutions with a focus on AI integration, cloud architecture, and developer tooling. When I'm not shipping code, I'm organizing the [Spokane .NET User Group](https://www.meetup.com/spokane-net-user-group/) and helping the local dev community level up. I am passionate about helping other early engineers go from quickstart guides to enterprise software.
+
 ---
 
 ## 🌐 Connect
